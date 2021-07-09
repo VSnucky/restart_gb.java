@@ -1,5 +1,3 @@
-package Level_1.Lesson3;
-
 import java.util.Random;
 import java.util.Scanner;
 
